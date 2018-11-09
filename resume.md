@@ -10,6 +10,26 @@ date: 2018-11-09
 +82 10 2684 3226\
 yuri.cheru0422@gmail.com\
 
+
+## 프로젝트 {.divider}
+### 서울시 국공립 어린이집 최적지 선정  &mdash; 서울시 빅데이터 캠퍼스 공모전 출품
+#### 프로젝트 내용
+* 서울시 자치구별 아동(만 0-5세) 인구, 동별 부동산 데이터, 어린이집 현황 데이터 등의 자료를 바탕으로 국공립 어린이집 최적지를 GIS공간 분석함
+* 주요 알고리즘: KNN, K-means, RNN
+* 분석 도구: 
+- Python: Pandas, Numpy, Matplotlib, Tensorflow, Sklearn, Scipy, 
+- PowerBI
+- ArcGIS
+
+### 대용량 텍스트데이터 & 디지털이미지 처리 및 분석 통합 프로그램 구현 &mdash; 개인프로젝트(진행 중)
+#### 프로젝트 내용
+* 대용량 텍스트데이터의 자동화 처리(저장, 변환) 및 데이터 분석 프로그램 구현. 
+* Raw 데이터 및 RGB데이터 처리를 위한 디지털 이미지 통합 분석 프로그램 구현
+* 분석 도구: 
+- Python: CSV, MySQL, SQLite, MariaDB
+- Virtual Box
+
+
 ## 경력사항 {.divider}
 
 ### Project Manager &mdash; 프리랜서
@@ -36,25 +56,7 @@ yuri.cheru0422@gmail.com\
 #### 2015.05 - 2015.12
 * 케냐 비료시장 조사 분석
 * 제품 홍보마케팅 기획
-- 
 
-## 프로젝트 {.divider}
-### 서울시 국공립 어린이집 최적지 선정  &mdash; 서울시 빅데이터 캠퍼스 공모전 출품
-#### 프로젝트 내용
-* 서울시 자치구별 아동(만 0-5세) 인구, 동별 부동산 데이터, 어린이집 현황 데이터 등의 자료를 바탕으로 국공립 어린이집 최적지를 GIS공간 분석함
-* 주요 알고리즘: KNN, K-means, RNN
-* 분석 도구: 
-- Python: Pandas, Numpy, Matplotlib, Tensorflow, Sklearn, Scipy, 
-- PowerBI
-- ArcGIS
-
-### 대용량 텍스트데이터 & 디지털이미지 처리 및 분석 통합 프로그램 구현 &mdash; 개인프로젝트(진행 중)
-#### 프로젝트 내용
-* 대용량 텍스트데이터의 자동화 처리(저장, 변환) 및 데이터 분석 프로그램 구현. 
-* Raw 데이터 및 RGB데이터 처리를 위한 디지털 이미지 통합 분석 프로그램 구현
-* 분석 도구: 
-- Python: CSV, MySQL, SQLite, MariaDB
-- Virtual Box
 
 ## 학력사항 {.hide}
 ### 선문대학교 국제관계학전공 {.col .left}
